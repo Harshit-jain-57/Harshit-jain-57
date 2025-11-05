@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Harshit!
+
+I will be writing a bit about myself here (soon-ish).
+
 <!--
 **Harshit-jain-57/Harshit-jain-57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
